@@ -1,0 +1,13 @@
+<settings>
+	<error>
+		<camera>
+			<rotation x="0.001" y="0.001" z="0.001"/>
+		</camera>
+		<sensors>
+			<position x="0.001" y="0.001" z="0.001"/> 
+		</sensors>
+	</error>
+	<velocity value="1000"/>
+	<video path="video.avi"/>
+	<sensors good="sensors.xml" bad="bad_sensors.xml"/>
+</settings>
